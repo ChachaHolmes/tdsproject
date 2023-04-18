@@ -1,6 +1,5 @@
 import streamlit as st
 
-
 def largest_number(a, b, c):
     return max(a, b, c)
 
